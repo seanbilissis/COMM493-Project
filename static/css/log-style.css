@@ -1,0 +1,87 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+  /****************/
+ /* Text Styling */
+/****************/
+h1 {
+  font-size: 40px;
+  color: white;
+}
+
+h2 {
+  font-size: 20px;
+  color: white;
+  font-weight: normal;
+}
+
+
+body {
+  background-image: url("../img/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.main-grid { 
+  display: grid;
+  grid-template-columns: 1fr 500px 1fr;
+  grid-template-rows: 300px 1fr 300px;
+  grid-template-areas:
+  ". index-heading ."
+  ". index-form ."
+  ". . .";
+  grid-gap: 20px;
+}
+
+.login-heading {
+  grid-area: index-heading;
+  align-self: end;
+  border-bottom: 1px solid white;
+  padding: 3px;
+  background-color: rgba(211, 211, 211, 0.4);
+}
+
+form {
+  grid-area: index-form;
+  display: grid; 
+  grid-template-columns: 125px 1fr; 
+  grid-template-rows: 1fr 1fr 1fr; 
+  grid-template-areas: 
+  "index-user-label index-username"
+  "index-pass-label index-password"
+  ". index-button";
+  grid-gap: 5px;
+  background-color: rgba(211, 211, 211, 0.4);
+  padding: 5px;
+}
+
+.username-heading {
+  grid-area: index-user-label;
+  align-self: center;
+}
+
+form #username {
+  grid-area: index-username;
+  height: 50px;
+}
+
+form .password-heading {
+  grid-area: index-pass-label;
+  align-self: center;
+}
+
+#password {
+  grid-area: index-password;
+  height: 50px;
+}
+
+#button {
+  grid-area: index-button;
+  justify-self: end;
+  width: 100px;
+  height: 40px;
+}
+

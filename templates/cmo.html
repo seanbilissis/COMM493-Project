@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Sentiment Dashboard</title>
+	<meta charset="UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<meta name="author" content="Sean Bilissis"/>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/dash-style.css') }}">
+    <script src="https://kit.fontawesome.com/bd3bd83fd7.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+<div class="main-grid"> 
+    <header class="header"> 
+        <div class="nested-header">
+            <h1> SENTIMENT DASHBOARD </h1>
+            <div class="header-aside"> 
+                <i class="fas fa-user"></i>
+                <h3>Hello CMO!</h3>
+            </div>
+            <div class="header-nav"> 
+                <nav>
+                    <a href="/ceo">CEO</a> |
+                    <a href="/cmo">CMO</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <div class="sentiment">                
+        <h2> Latest Weeks Sentiment </h2>
+        <p> {{ weeklySent }} </p>
+    </div>
+    <div class="data-box-1">
+        <div class="nested-grid"> 
+            <h2 class="country"> SENTIMENT BY COUNTRY </h2>
+            <iframe id="choropleth", src="/choropleth"></iframe>
+        </div>
+    </div>
+    <div class="data-box-2">
+        <div class="nested-grid">
+            <h2 class="age"> SENTIMENT BY AGE GROUP </h2>
+            <img id="age-img" src={{ imgSentAge }} alt="Sentiment by Age Group"> 
+        </div>
+    </div> 
+    <div class="data-box-3">
+        <div class="nested-grid">
+            <h2 class="gender"> SENTIMENT BY GENDER </h2>
+            <img id="gender-img" src={{ imgSentGen }} alt="Sentiment by Gender"> 
+        </div>
+    </div>
+    <div class="data-box-4">
+        <div class="nested-grid">
+            <h2 class="customer"> DECLINING SENTIMENT BY CUSTOMER </h2>
+            {{ topSentDec|safe }}
+        </div>
+    </div>
+    <footer class="footer">
+        <h3> footer contents </h3>
+    </footer>
+</div>
+
+</body>
+
+</html>

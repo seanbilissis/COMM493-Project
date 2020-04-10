@@ -1,0 +1,582 @@
+Seq,Product_ID,List_Price,Description
+1,106060104,69.99,Funky and Bold sweaters White Check
+2,107060801,159.99,Party Pieces sweaters Pink Plain
+3,101021007,39.99,Contemporary and Clean Shoes Orange Houndstooth
+4,106070504,29.99,Funky and Bold Dresses Green Check
+5,105010210,9.99,Hispter Trend Hats Black Animal print
+6,104090402,99.99,Dress to Impress Skirts Blue Striped
+7,110040501,129.99,Runway Inspired Pants Green Plain
+8,207030708,89.99,Party Pieces Shirts Red Polka Dots
+9,201010608,29.99,Contemporary and Clean Hats Purple Polka Dots
+10,110010603,69.99,Runway Inspired Hats Purple Geometric
+11,210020403,69.99,Runway Inspired Shoes Blue Geometric
+12,109050803,109.99,Romantic and Bohemian Jackets Pink Geometric
+13,109090305,49.99,Romantic and Bohemian Skirts Brown Plaid
+14,110030209,129.99,Runway Inspired Shirts Black Floral
+15,106010909,29.99,Funky and Bold Hats Yellow Floral
+16,103021006,39.99,Relaxed and Casual Shoes Orange Paisley
+17,103070802,39.99,Relaxed and Casual Dresses Pink Striped
+18,103090309,39.99,Relaxed and Casual Skirts Brown Floral
+19,104030901,49.99,Dress to Impress Shirts Yellow Plain
+20,208020706,49.99,Athletic Shoes Red Paisley
+21,109070503,69.99,Romantic and Bohemian Dresses Green Geometric
+22,202030307,9.99,Utility and Basics Shirts Brown Houndstooth
+23,101090601,69.99,Contemporary and Clean Skirts Purple Plain
+24,107060109,119.99,Party Pieces sweaters White Floral
+25,209050709,129.99,Romantic and Bohemian Jackets Red Floral
+26,108071004,69.99,Athletic Dresses Orange Check
+27,210040105,179.99,Runway Inspired Pants White Plaid
+28,103090201,19.99,Relaxed and Casual Skirts Black Plain
+29,105030401,39.99,Hispter Trend Shirts Blue Plain
+30,108081006,79.99,Athletic Blouses Orange Paisley
+31,110060103,149.99,Runway Inspired sweaters White Geometric
+32,206051006,89.99,Funky and Bold Jackets Orange Paisley
+33,102020804,19.99,Utility and Basics Shoes Pink Check
+34,108020106,39.99,Athletic Shoes White Paisley
+35,110080510,89.99,Runway Inspired Blouses Green Animal print
+36,207050110,139.99,Party Pieces Jackets White Animal print
+37,108040406,129.99,Athletic Pants Blue Paisley
+38,110080306,89.99,Runway Inspired Blouses Brown Paisley
+39,209020808,69.99,Romantic and Bohemian Shoes Pink Polka Dots
+40,107030906,19.99,Party Pieces Shirts Yellow Paisley
+41,106091002,59.99,Funky and Bold Skirts Orange Striped
+42,106050303,19.99,Funky and Bold Jackets Brown Geometric
+43,109090706,99.99,Romantic and Bohemian Skirts Red Paisley
+44,105090609,69.99,Hispter Trend Skirts Purple Floral
+45,103070706,29.99,Relaxed and Casual Dresses Red Paisley
+46,102050704,39.99,Utility and Basics Jackets Red Check
+47,206010808,9.99,Funky and Bold Hats Pink Polka Dots
+48,107020509,29.99,Party Pieces Shoes Green Floral
+49,301020108,29.99,Contemporary and Clean Shoes White Polka Dots
+50,106030403,59.99,Funky and Bold Shirts Blue Geometric
+51,108010602,29.99,Athletic Hats Purple Striped
+52,203010602,9.99,Relaxed and Casual Hats Purple Striped
+53,307010406,9.99,Party Pieces Hats Blue Paisley
+54,104070603,89.99,Dress to Impress Dresses Purple Geometric
+55,108070908,69.99,Athletic Dresses Yellow Polka Dots
+56,108090105,49.99,Athletic Skirts White Plaid
+57,106050304,129.99,Funky and Bold Jackets Brown Check
+58,202040903,69.99,Utility and Basics Pants Yellow Geometric
+59,205040206,69.99,Hispter Trend Pants Black Paisley
+60,106020601,9.99,Funky and Bold Shoes Purple Plain
+61,207010504,19.99,Party Pieces Hats Green Check
+62,303050905,139.99,Relaxed and Casual Jackets Yellow Plaid
+63,101010204,19.99,Contemporary and Clean Hats Black Check
+64,105070103,69.99,Hispter Trend Dresses White Geometric
+65,102010110,29.99,Utility and Basics Hats White Animal print
+66,101051010,109.99,Contemporary and Clean Jackets Orange Animal print
+67,110040108,169.99,Runway Inspired Pants White Polka Dots
+68,107040507,49.99,Party Pieces Pants Green Houndstooth
+69,103090305,79.99,Relaxed and Casual Skirts Brown Plaid
+70,109080905,69.99,Romantic and Bohemian Blouses Yellow Plaid
+71,108030704,99.99,Athletic Shirts Red Check
+72,102020801,9.99,Utility and Basics Shoes Pink Plain
+73,107060506,169.99,Party Pieces sweaters Green Paisley
+74,203040509,69.99,Relaxed and Casual Pants Green Floral
+75,204020401,49.99,Dress to Impress Shoes Blue Plain
+76,307030706,99.99,Party Pieces Shirts Red Paisley
+77,208010305,39.99,Athletic Hats Brown Plaid
+78,105040909,99.99,Hispter Trend Pants Yellow Floral
+79,203050808,29.99,Relaxed and Casual Jackets Pink Polka Dots
+80,210050708,109.99,Runway Inspired Jackets Red Polka Dots
+81,202030204,59.99,Utility and Basics Shirts Black Check
+82,105030201,49.99,Hispter Trend Shirts Black Plain
+83,105020302,19.99,Hispter Trend Shoes Brown Striped
+84,106080603,59.99,Funky and Bold Blouses Purple Geometric
+85,101060501,59.99,Contemporary and Clean sweaters Green Plain
+86,106031002,29.99,Funky and Bold Shirts Orange Striped
+87,109010701,29.99,Romantic and Bohemian Hats Red Plain
+88,105080709,29.99,Hispter Trend Blouses Red Floral
+89,105010405,19.99,Hispter Trend Hats Blue Plaid
+90,106010610,29.99,Funky and Bold Hats Purple Animal print
+91,105040104,89.99,Hispter Trend Pants White Check
+92,103030805,9.99,Relaxed and Casual Shirts Pink Plaid
+93,105060206,119.99,Hispter Trend sweaters Black Paisley
+94,102020809,9.99,Utility and Basics Shoes Pink Floral
+95,103030902,19.99,Relaxed and Casual Shirts Yellow Striped
+96,209030406,59.99,Romantic and Bohemian Shirts Blue Paisley
+97,203040905,119.99,Relaxed and Casual Pants Yellow Plaid
+98,106020102,19.99,Funky and Bold Shoes White Striped
+99,109030109,119.99,Romantic and Bohemian Shirts White Floral
+100,103040203,129.99,Relaxed and Casual Pants Black Geometric
+101,101020503,39.99,Contemporary and Clean Shoes Green Geometric
+102,101040401,149.99,Contemporary and Clean Pants Blue Plain
+103,201040303,89.99,Contemporary and Clean Pants Brown Geometric
+104,103010301,39.99,Relaxed and Casual Hats Brown Plain
+105,201060202,139.99,Contemporary and Clean sweaters Black Striped
+106,201020401,19.99,Contemporary and Clean Shoes Blue Plain
+107,102020705,19.99,Utility and Basics Shoes Red Plaid
+108,104010805,59.99,Dress to Impress Hats Pink Plaid
+109,103020705,29.99,Relaxed and Casual Shoes Red Plaid
+110,203050603,99.99,Relaxed and Casual Jackets Purple Geometric
+111,101040905,69.99,Contemporary and Clean Pants Yellow Plaid
+112,104040703,99.99,Dress to Impress Pants Red Geometric
+113,203050806,109.99,Relaxed and Casual Jackets Pink Paisley
+114,102050907,119.99,Utility and Basics Jackets Yellow Houndstooth
+115,102060508,39.99,Utility and Basics sweaters Green Polka Dots
+116,104040201,69.99,Dress to Impress Pants Black Plain
+117,302060309,69.99,Utility and Basics sweaters Brown Floral
+118,104040309,89.99,Dress to Impress Pants Brown Floral
+119,103040201,89.99,Relaxed and Casual Pants Black Plain
+120,104060403,199.99,Dress to Impress sweaters Blue Geometric
+121,102030305,89.99,Utility and Basics Shirts Brown Plaid
+122,103010205,39.99,Relaxed and Casual Hats Black Plaid
+123,101040302,59.99,Contemporary and Clean Pants Brown Striped
+124,203040403,129.99,Relaxed and Casual Pants Blue Geometric
+125,103030701,69.99,Relaxed and Casual Shirts Red Plain
+126,201040709,49.99,Contemporary and Clean Pants Red Floral
+127,204010508,59.99,Dress to Impress Hats Green Polka Dots
+128,103060807,49.99,Relaxed and Casual sweaters Pink Houndstooth
+129,103020607,49.99,Relaxed and Casual Shoes Purple Houndstooth
+130,102030609,79.99,Utility and Basics Shirts Purple Floral
+131,102010609,-0.01,Utility and Basics Hats Purple Floral
+132,104040706,179.99,Dress to Impress Pants Red Paisley
+133,102030109,39.99,Utility and Basics Shirts White Floral
+134,102061009,29.99,Utility and Basics sweaters Orange Floral
+135,201030110,19.99,Contemporary and Clean Shirts White Animal print
+136,109060605,79.99,Romantic and Bohemian sweaters Purple Plaid
+137,110040806,109.99,Runway Inspired Pants Pink Paisley
+138,110020605,59.99,Runway Inspired Shoes Purple Plaid
+139,110050903,69.99,Runway Inspired Jackets Yellow Geometric
+140,110050806,159.99,Runway Inspired Jackets Pink Paisley
+141,104010605,39.99,Dress to Impress Hats Purple Plaid
+142,202020503,9.99,Utility and Basics Shoes Green Geometric
+143,203061008,169.99,Relaxed and Casual sweaters Orange Polka Dots
+144,104041001,119.99,Dress to Impress Pants Orange Plain
+145,102060805,29.99,Utility and Basics sweaters Pink Plaid
+146,103050106,119.99,Relaxed and Casual Jackets White Paisley
+147,104011008,49.99,Dress to Impress Hats Orange Polka Dots
+148,210010907,39.99,Runway Inspired Hats Yellow Houndstooth
+149,210040907,179.99,Runway Inspired Pants Yellow Houndstooth
+150,104010106,49.99,Dress to Impress Hats White Paisley
+151,204051007,169.99,Dress to Impress Jackets Orange Houndstooth
+152,104020807,69.99,Dress to Impress Shoes Pink Houndstooth
+153,210021005,69.99,Runway Inspired Shoes Orange Plaid
+154,210041007,99.99,Runway Inspired Pants Orange Houndstooth
+155,104020805,59.99,Dress to Impress Shoes Pink Plaid
+156,204040908,99.99,Dress to Impress Pants Yellow Polka Dots
+157,204011007,69.99,Dress to Impress Hats Orange Houndstooth
+158,104020907,49.99,Dress to Impress Shoes Yellow Houndstooth
+159,102020206,9.99,Utility and Basics Shoes Black Paisley
+160,103050206,119.99,Relaxed and Casual Jackets Black Paisley
+161,103040106,89.99,Relaxed and Casual Pants White Paisley
+162,101010708,19.99,Contemporary and Clean Hats Red Polka Dots
+163,101020706,49.99,Contemporary and Clean Shoes Red Paisley
+164,201060705,109.99,Contemporary and Clean sweaters Red Plaid
+165,203050606,149.99,Relaxed and Casual Jackets Purple Paisley
+166,201040708,59.99,Contemporary and Clean Pants Red Polka Dots
+167,101060608,109.99,Contemporary and Clean sweaters Purple Polka Dots
+168,103010508,9.99,Relaxed and Casual Hats Green Polka Dots
+169,101030708,69.99,Contemporary and Clean Shirts Red Polka Dots
+170,104030807,99.99,Dress to Impress Shirts Pink Houndstooth
+171,102061008,159.99,Utility and Basics sweaters Orange Polka Dots
+172,102060108,39.99,Utility and Basics sweaters White Polka Dots
+173,210030206,99.99,Runway Inspired Shirts Black Paisley
+174,202030501,89.99,Utility and Basics Shirts Green Plain
+175,204040602,159.99,Dress to Impress Pants Purple Striped
+176,101050703,99.99,Contemporary and Clean Jackets Red Geometric
+177,202040503,129.99,Utility and Basics Pants Green Geometric
+178,101050702,149.99,Contemporary and Clean Jackets Red Striped
+179,102050701,49.99,Utility and Basics Jackets Red Plain
+180,102060703,19.99,Utility and Basics sweaters Red Geometric
+181,102030402,19.99,Utility and Basics Shirts Blue Striped
+182,101051001,69.99,Contemporary and Clean Jackets Orange Plain
+183,104020909,59.99,Dress to Impress Shoes Yellow Floral
+184,202060901,159.99,Utility and Basics sweaters Yellow Plain
+185,102050910,19.99,Utility and Basics Jackets Yellow Animal print
+186,103020901,39.99,Relaxed and Casual Shoes Yellow Plain
+187,203030101,49.99,Relaxed and Casual Shirts White Plain
+188,103040607,89.99,Relaxed and Casual Pants Purple Houndstooth
+189,103030709,9.99,Relaxed and Casual Shirts Red Floral
+190,201050709,99.99,Contemporary and Clean Jackets Red Floral
+191,301050706,49.99,Contemporary and Clean Jackets Red Paisley
+192,203020506,19.99,Relaxed and Casual Shoes Green Paisley
+193,103040506,39.99,Relaxed and Casual Pants Green Paisley
+194,103060607,99.99,Relaxed and Casual sweaters Purple Houndstooth
+195,108060605,79.99,Athletic sweaters Purple Plaid
+196,207040405,89.99,Party Pieces Pants Blue Plaid
+197,107030705,69.99,Party Pieces Shirts Red Plaid
+198,108060502,79.99,Athletic sweaters Green Striped
+199,207060703,139.99,Party Pieces sweaters Red Geometric
+200,206030703,79.99,Funky and Bold Shirts Red Geometric
+201,106050707,139.99,Funky and Bold Jackets Red Houndstooth
+202,107010703,9.99,Party Pieces Hats Red Geometric
+203,110051007,109.99,Runway Inspired Jackets Orange Houndstooth
+204,304010806,69.99,Dress to Impress Hats Pink Paisley
+205,104020905,69.99,Dress to Impress Shoes Yellow Plaid
+206,104061006,159.99,Dress to Impress sweaters Orange Paisley
+207,104050806,109.99,Dress to Impress Jackets Pink Paisley
+208,110060806,139.99,Runway Inspired sweaters Pink Paisley
+209,110010907,39.99,Runway Inspired Hats Yellow Houndstooth
+210,104050905,149.99,Dress to Impress Jackets Yellow Plaid
+211,201030905,49.99,Contemporary and Clean Shirts Yellow Plaid
+212,104030705,109.99,Dress to Impress Shirts Red Plaid
+213,202060903,109.99,Utility and Basics sweaters Yellow Geometric
+214,103040310,149.99,Relaxed and Casual Pants Brown Animal print
+215,101050309,129.99,Contemporary and Clean Jackets Brown Floral
+216,102050401,129.99,Utility and Basics Jackets Blue Plain
+217,102010109,29.99,Utility and Basics Hats White Floral
+218,103020401,19.99,Relaxed and Casual Shoes Blue Plain
+219,102020201,9.99,Utility and Basics Shoes Black Plain
+220,201060310,159.99,Contemporary and Clean sweaters Brown Animal print
+221,103020210,19.99,Relaxed and Casual Shoes Black Animal print
+222,203060504,39.99,Relaxed and Casual sweaters Green Check
+223,103040606,89.99,Relaxed and Casual Pants Purple Paisley
+224,103060404,39.99,Relaxed and Casual sweaters Blue Check
+225,103010706,9.99,Relaxed and Casual Hats Red Paisley
+226,101060407,69.99,Contemporary and Clean sweaters Blue Houndstooth
+227,103030404,29.99,Relaxed and Casual Shirts Blue Check
+228,203041010,79.99,Relaxed and Casual Pants Orange Animal print
+229,204051010,79.99,Dress to Impress Jackets Orange Animal print
+230,104040402,129.99,Dress to Impress Pants Blue Striped
+231,104030301,129.99,Dress to Impress Shirts Brown Plain
+232,102060501,149.99,Utility and Basics sweaters Green Plain
+233,101060405,29.99,Contemporary and Clean sweaters Blue Plaid
+234,203030105,9.99,Relaxed and Casual Shirts White Plaid
+235,104061009,199.99,Dress to Impress sweaters Orange Floral
+236,104050504,179.99,Dress to Impress Jackets Green Check
+237,110030403,59.99,Runway Inspired Shirts Blue Geometric
+238,204020606,79.99,Dress to Impress Shoes Purple Paisley
+239,204050706,89.99,Dress to Impress Jackets Red Paisley
+240,110020606,49.99,Runway Inspired Shoes Purple Paisley
+241,110020505,59.99,Runway Inspired Shoes Green Plaid
+242,102030307,49.99,Utility and Basics Shirts Brown Houndstooth
+243,101020107,29.99,Contemporary and Clean Shoes White Houndstooth
+244,101030206,99.99,Contemporary and Clean Shirts Black Paisley
+245,102040108,19.99,Utility and Basics Pants White Polka Dots
+246,203050308,129.99,Relaxed and Casual Jackets Brown Polka Dots
+247,202050108,99.99,Utility and Basics Jackets White Polka Dots
+248,201030208,79.99,Contemporary and Clean Shirts Black Polka Dots
+249,101060403,99.99,Contemporary and Clean sweaters Blue Geometric
+250,101040604,109.99,Contemporary and Clean Pants Purple Check
+251,101010702,29.99,Contemporary and Clean Hats Red Striped
+252,201020704,29.99,Contemporary and Clean Shoes Red Check
+253,203030603,39.99,Relaxed and Casual Shirts Purple Geometric
+254,104020603,69.99,Dress to Impress Shoes Purple Geometric
+255,102030601,49.99,Utility and Basics Shirts Purple Plain
+256,109020303,49.99,Romantic and Bohemian Shoes Brown Geometric
+257,102050601,69.99,Utility and Basics Jackets Purple Plain
+258,203030809,79.99,Relaxed and Casual Shirts Pink Floral
+259,101050801,139.99,Contemporary and Clean Jackets Pink Plain
+260,201040509,69.99,Contemporary and Clean Pants Green Floral
+261,101030508,29.99,Contemporary and Clean Shirts Green Polka Dots
+262,201020509,49.99,Contemporary and Clean Shoes Green Floral
+263,103050408,109.99,Relaxed and Casual Jackets Blue Polka Dots
+264,103060207,59.99,Relaxed and Casual sweaters Black Houndstooth
+265,101050507,129.99,Contemporary and Clean Jackets Green Houndstooth
+266,103010509,29.99,Relaxed and Casual Hats Green Floral
+267,101020309,29.99,Contemporary and Clean Shoes Brown Floral
+268,204020607,79.99,Dress to Impress Shoes Purple Houndstooth
+269,102060509,139.99,Utility and Basics sweaters Green Floral
+270,101050807,59.99,Contemporary and Clean Jackets Pink Houndstooth
+271,304060809,69.99,Dress to Impress sweaters Pink Floral
+272,104030809,69.99,Dress to Impress Shirts Pink Floral
+273,104060507,169.99,Dress to Impress sweaters Green Houndstooth
+274,110050308,79.99,Runway Inspired Jackets Brown Polka Dots
+275,110050307,179.99,Runway Inspired Jackets Brown Houndstooth
+276,210050209,59.99,Runway Inspired Jackets Black Floral
+277,104010107,39.99,Dress to Impress Hats White Houndstooth
+278,210050409,179.99,Runway Inspired Jackets Blue Floral
+279,104030408,59.99,Dress to Impress Shirts Blue Polka Dots
+280,201010605,9.99,Contemporary and Clean Hats Purple Plaid
+281,110010509,39.99,Runway Inspired Hats Green Floral
+282,204010510,69.99,Dress to Impress Hats Green Animal print
+283,104060401,159.99,Dress to Impress sweaters Blue Plain
+284,210050508,109.99,Runway Inspired Jackets Green Polka Dots
+285,110020308,59.99,Runway Inspired Shoes Brown Polka Dots
+286,104050308,149.99,Dress to Impress Jackets Brown Polka Dots
+287,104030607,49.99,Dress to Impress Shirts Purple Houndstooth
+288,104010508,59.99,Dress to Impress Hats Green Polka Dots
+289,103020809,49.99,Relaxed and Casual Shoes Pink Floral
+290,204010801,39.99,Dress to Impress Hats Pink Plain
+291,102010801,19.99,Utility and Basics Hats Pink Plain
+292,102050801,39.99,Utility and Basics Jackets Pink Plain
+293,104050601,129.99,Dress to Impress Jackets Purple Plain
+294,103040202,109.99,Relaxed and Casual Pants Black Striped
+295,103010103,39.99,Relaxed and Casual Hats White Geometric
+296,101020203,39.99,Contemporary and Clean Shoes Black Geometric
+297,101030301,49.99,Contemporary and Clean Shirts Brown Plain
+298,203010103,39.99,Relaxed and Casual Hats White Geometric
+299,101060304,39.99,Contemporary and Clean sweaters Brown Check
+300,201030303,69.99,Contemporary and Clean Shirts Brown Geometric
+301,101010201,39.99,Contemporary and Clean Hats Black Plain
+302,105060401,89.99,Hispter Trend sweaters Blue Plain
+303,208050601,89.99,Athletic Jackets Purple Plain
+304,205020608,49.99,Hispter Trend Shoes Purple Polka Dots
+305,106040401,129.99,Funky and Bold Pants Blue Plain
+306,201050905,129.99,Contemporary and Clean Jackets Yellow Plaid
+307,103020903,29.99,Relaxed and Casual Shoes Yellow Geometric
+308,103060904,109.99,Relaxed and Casual sweaters Yellow Check
+309,102010504,29.99,Utility and Basics Hats Green Check
+310,101020705,49.99,Contemporary and Clean Shoes Red Plaid
+311,104030804,119.99,Dress to Impress Shirts Pink Check
+312,204051005,109.99,Dress to Impress Jackets Orange Plaid
+313,101050803,99.99,Contemporary and Clean Jackets Pink Geometric
+314,103011005,9.99,Relaxed and Casual Hats Orange Plaid
+315,102040905,19.99,Utility and Basics Pants Yellow Plaid
+316,101011005,19.99,Contemporary and Clean Hats Orange Plaid
+317,101060806,109.99,Contemporary and Clean sweaters Pink Paisley
+318,101030705,9.99,Contemporary and Clean Shirts Red Plaid
+319,203060803,49.99,Relaxed and Casual sweaters Pink Geometric
+320,201050804,89.99,Contemporary and Clean Jackets Pink Check
+321,103010804,29.99,Relaxed and Casual Hats Pink Check
+322,102060910,29.99,Utility and Basics sweaters Yellow Animal print
+323,103020501,49.99,Relaxed and Casual Shoes Green Plain
+324,101060710,39.99,Contemporary and Clean sweaters Red Animal print
+325,103040308,99.99,Relaxed and Casual Pants Brown Polka Dots
+326,101010408,9.99,Contemporary and Clean Hats Blue Polka Dots
+327,201050409,59.99,Contemporary and Clean Jackets Blue Floral
+328,103050409,29.99,Relaxed and Casual Jackets Blue Floral
+329,201010208,29.99,Contemporary and Clean Hats Black Polka Dots
+330,103020407,19.99,Relaxed and Casual Shoes Blue Houndstooth
+331,103060209,79.99,Relaxed and Casual sweaters Black Floral
+332,104010506,49.99,Dress to Impress Hats Green Paisley
+333,210020406,69.99,Runway Inspired Shoes Blue Paisley
+334,110050506,139.99,Runway Inspired Jackets Green Paisley
+335,208020101,39.99,Athletic Shoes White Plain
+336,208010310,39.99,Athletic Hats Brown Animal print
+337,307020803,49.99,Party Pieces Shoes Pink Geometric
+338,107020803,19.99,Party Pieces Shoes Pink Geometric
+339,107010903,9.99,Party Pieces Hats Yellow Geometric
+340,101030603,19.99,Contemporary and Clean Shirts Purple Geometric
+341,304040501,179.99,Dress to Impress Pants Green Plain
+342,204030701,129.99,Dress to Impress Shirts Red Plain
+343,201030402,99.99,Contemporary and Clean Shirts Blue Striped
+344,102040505,59.99,Utility and Basics Pants Green Plaid
+345,103050405,109.99,Relaxed and Casual Jackets Blue Plaid
+346,103060706,119.99,Relaxed and Casual sweaters Red Paisley
+347,102030705,-0.01,Utility and Basics Shirts Red Plaid
+348,103030806,89.99,Relaxed and Casual Shirts Pink Paisley
+349,101050806,59.99,Contemporary and Clean Jackets Pink Paisley
+350,103021005,49.99,Relaxed and Casual Shoes Orange Plaid
+351,103010704,19.99,Relaxed and Casual Hats Red Check
+352,103010606,19.99,Relaxed and Casual Hats Purple Paisley
+353,201060803,29.99,Contemporary and Clean sweaters Pink Geometric
+354,101050410,49.99,Contemporary and Clean Jackets Blue Animal print
+355,101030409,19.99,Contemporary and Clean Shirts Blue Floral
+356,201010508,39.99,Contemporary and Clean Hats Green Polka Dots
+357,202060302,119.99,Utility and Basics sweaters Brown Striped
+358,104060801,139.99,Dress to Impress sweaters Pink Plain
+359,101040904,79.99,Contemporary and Clean Pants Yellow Check
+360,103010101,19.99,Relaxed and Casual Hats White Plain
+361,202060103,89.99,Utility and Basics sweaters White Geometric
+362,102061002,59.99,Utility and Basics sweaters Orange Striped
+363,103040101,59.99,Relaxed and Casual Pants White Plain
+364,104060104,189.99,Dress to Impress sweaters White Check
+365,104010201,59.99,Dress to Impress Hats Black Plain
+366,104030104,109.99,Dress to Impress Shirts White Check
+367,104020204,49.99,Dress to Impress Shoes Black Check
+368,101050202,139.99,Contemporary and Clean Jackets Black Striped
+369,102030203,89.99,Utility and Basics Shirts Black Geometric
+370,102020204,19.99,Utility and Basics Shoes Black Check
+371,201020804,49.99,Contemporary and Clean Shoes Pink Check
+372,101050805,119.99,Contemporary and Clean Jackets Pink Plaid
+373,202060804,159.99,Utility and Basics sweaters Pink Check
+374,101020905,29.99,Contemporary and Clean Shoes Yellow Plaid
+375,103060106,149.99,Relaxed and Casual sweaters White Paisley
+376,203040206,119.99,Relaxed and Casual Pants Black Paisley
+377,103060210,49.99,Relaxed and Casual sweaters Black Animal print
+378,202020110,29.99,Utility and Basics Shoes White Animal print
+379,304030201,59.99,Dress to Impress Shirts Black Plain
+380,102031006,79.99,Utility and Basics Shirts Orange Paisley
+381,110010804,59.99,Runway Inspired Hats Pink Check
+382,204050805,169.99,Dress to Impress Jackets Pink Plaid
+383,104040408,169.99,Dress to Impress Pants Blue Polka Dots
+384,101060109,159.99,Contemporary and Clean sweaters White Floral
+385,102030209,-0.01,Utility and Basics Shirts Black Floral
+386,104020210,49.99,Dress to Impress Shoes Black Animal print
+387,103040410,39.99,Relaxed and Casual Pants Blue Animal print
+388,204030307,109.99,Dress to Impress Shirts Brown Houndstooth
+389,302030401,9.99,Utility and Basics Shirts Blue Plain
+390,103030908,9.99,Relaxed and Casual Shirts Yellow Polka Dots
+391,201040804,69.99,Contemporary and Clean Pants Pink Check
+392,107050102,39.99,Party Pieces Jackets White Striped
+393,107020201,49.99,Party Pieces Shoes Black Plain
+394,206010301,-0.01,Funky and Bold Hats Brown Plain
+395,105020301,39.99,Hispter Trend Shoes Brown Plain
+396,103060408,29.99,Relaxed and Casual sweaters Blue Polka Dots
+397,201040307,69.99,Contemporary and Clean Pants Brown Houndstooth
+398,203030309,9.99,Relaxed and Casual Shirts Brown Floral
+399,103020410,49.99,Relaxed and Casual Shoes Blue Animal print
+400,104040806,59.99,Dress to Impress Pants Pink Paisley
+401,104021006,49.99,Dress to Impress Shoes Orange Paisley
+402,109030805,109.99,Romantic and Bohemian Shirts Pink Plaid
+403,109021006,39.99,Romantic and Bohemian Shoes Orange Paisley
+404,204030805,99.99,Dress to Impress Shirts Pink Plaid
+405,102010903,-0.01,Utility and Basics Hats Yellow Geometric
+406,103021002,49.99,Relaxed and Casual Shoes Orange Striped
+407,101060905,139.99,Contemporary and Clean sweaters Yellow Plaid
+408,103020805,19.99,Relaxed and Casual Shoes Pink Plaid
+409,105060504,89.99,Hispter Trend sweaters Green Check
+410,107040505,109.99,Party Pieces Pants Green Plaid
+411,106010604,29.99,Funky and Bold Hats Purple Check
+412,108050503,59.99,Athletic Jackets Green Geometric
+413,102010503,9.99,Utility and Basics Hats Green Geometric
+414,303060701,39.99,Relaxed and Casual sweaters Red Plain
+415,302060210,69.99,Utility and Basics sweaters Black Animal print
+416,103040409,89.99,Relaxed and Casual Pants Blue Floral
+417,104050309,149.99,Dress to Impress Jackets Brown Floral
+418,102050609,119.99,Utility and Basics Jackets Purple Floral
+419,109011008,29.99,Romantic and Bohemian Hats Orange Polka Dots
+420,210060107,99.99,Runway Inspired sweaters White Houndstooth
+421,204031009,39.99,Dress to Impress Shirts Orange Floral
+422,210050109,109.99,Runway Inspired Jackets White Floral
+423,204010110,49.99,Dress to Impress Hats White Animal print
+424,104031007,99.99,Dress to Impress Shirts Orange Houndstooth
+425,209010109,29.99,Romantic and Bohemian Hats White Floral
+426,109021009,69.99,Romantic and Bohemian Shoes Orange Floral
+427,104040704,69.99,Dress to Impress Pants Red Check
+428,104050704,139.99,Dress to Impress Jackets Red Check
+429,101010805,39.99,Contemporary and Clean Hats Pink Plaid
+430,203060704,129.99,Relaxed and Casual sweaters Red Check
+431,103040401,89.99,Relaxed and Casual Pants Blue Plain
+432,203030401,19.99,Relaxed and Casual Shirts Blue Plain
+433,104050402,129.99,Dress to Impress Jackets Blue Striped
+434,203060309,159.99,Relaxed and Casual sweaters Brown Floral
+435,101060309,139.99,Contemporary and Clean sweaters Brown Floral
+436,103050310,119.99,Relaxed and Casual Jackets Brown Animal print
+437,101010401,39.99,Contemporary and Clean Hats Blue Plain
+438,101040410,109.99,Contemporary and Clean Pants Blue Animal print
+439,101050501,49.99,Contemporary and Clean Jackets Green Plain
+440,103020601,39.99,Relaxed and Casual Shoes Purple Plain
+441,103060310,169.99,Relaxed and Casual sweaters Brown Animal print
+442,104050310,89.99,Dress to Impress Jackets Brown Animal print
+443,104020410,59.99,Dress to Impress Shoes Blue Animal print
+444,101020310,29.99,Contemporary and Clean Shoes Brown Animal print
+445,201030308,59.99,Contemporary and Clean Shirts Brown Polka Dots
+446,110020208,59.99,Runway Inspired Shoes Black Polka Dots
+447,104010509,69.99,Dress to Impress Hats Green Floral
+448,101050105,79.99,Contemporary and Clean Jackets White Plaid
+449,101030302,9.99,Contemporary and Clean Shirts Brown Striped
+450,104020102,59.99,Dress to Impress Shoes White Striped
+451,203060502,99.99,Relaxed and Casual sweaters Green Striped
+452,103020503,39.99,Relaxed and Casual Shoes Green Geometric
+453,103030504,79.99,Relaxed and Casual Shirts Green Check
+454,103050809,69.99,Relaxed and Casual Jackets Pink Floral
+455,103031010,49.99,Relaxed and Casual Shirts Orange Animal print
+456,203040108,119.99,Relaxed and Casual Pants White Polka Dots
+457,101040309,49.99,Contemporary and Clean Pants Brown Floral
+458,101030507,89.99,Contemporary and Clean Shirts Green Houndstooth
+459,102030403,39.99,Utility and Basics Shirts Blue Geometric
+460,109010403,29.99,Romantic and Bohemian Hats Blue Geometric
+461,309020701,49.99,Romantic and Bohemian Shoes Red Plain
+462,110050503,159.99,Runway Inspired Jackets Green Geometric
+463,109020704,59.99,Romantic and Bohemian Shoes Red Check
+464,202010703,29.99,Utility and Basics Hats Red Geometric
+465,104060601,159.99,Dress to Impress sweaters Purple Plain
+466,102050101,119.99,Utility and Basics Jackets White Plain
+467,103040110,149.99,Relaxed and Casual Pants White Animal print
+468,302030101,39.99,Utility and Basics Shirts White Plain
+469,203030108,79.99,Relaxed and Casual Shirts White Polka Dots
+470,104060808,129.99,Dress to Impress sweaters Pink Polka Dots
+471,104051009,139.99,Dress to Impress Jackets Orange Floral
+472,203040101,69.99,Relaxed and Casual Pants White Plain
+473,101030101,69.99,Contemporary and Clean Shirts White Plain
+474,210051005,59.99,Runway Inspired Jackets Orange Plaid
+475,110010905,59.99,Runway Inspired Hats Yellow Plaid
+476,101030410,89.99,Contemporary and Clean Shirts Blue Animal print
+477,101020210,29.99,Contemporary and Clean Shoes Black Animal print
+478,102030401,69.99,Utility and Basics Shirts Blue Plain
+479,103020408,49.99,Relaxed and Casual Shoes Blue Polka Dots
+480,204060209,169.99,Dress to Impress sweaters Black Floral
+481,204060210,139.99,Dress to Impress sweaters Black Animal print
+482,102020407,19.99,Utility and Basics Shoes Blue Houndstooth
+483,103020310,39.99,Relaxed and Casual Shoes Brown Animal print
+484,102040704,89.99,Utility and Basics Pants Red Check
+485,103040604,119.99,Relaxed and Casual Pants Purple Check
+486,202030506,69.99,Utility and Basics Shirts Green Paisley
+487,102040705,29.99,Utility and Basics Pants Red Plaid
+488,104020704,79.99,Dress to Impress Shoes Red Check
+489,104040604,119.99,Dress to Impress Pants Purple Check
+490,204020507,49.99,Dress to Impress Shoes Green Houndstooth
+491,102060606,109.99,Utility and Basics sweaters Purple Paisley
+492,101030806,89.99,Contemporary and Clean Shirts Pink Paisley
+493,103010603,29.99,Relaxed and Casual Hats Purple Geometric
+494,201060604,119.99,Contemporary and Clean sweaters Purple Check
+495,101030605,59.99,Contemporary and Clean Shirts Purple Plaid
+496,101060505,69.99,Contemporary and Clean sweaters Green Plaid
+497,103050505,129.99,Relaxed and Casual Jackets Green Plaid
+498,103041007,59.99,Relaxed and Casual Pants Orange Houndstooth
+499,102050603,59.99,Utility and Basics Jackets Purple Geometric
+500,102030603,9.99,Utility and Basics Shirts Purple Geometric
+501,201060203,89.99,Contemporary and Clean sweaters Black Geometric
+502,201040105,129.99,Contemporary and Clean Pants White Plaid
+503,103050205,39.99,Relaxed and Casual Jackets Black Plaid
+504,104060203,59.99,Dress to Impress sweaters Black Geometric
+505,103040103,59.99,Relaxed and Casual Pants White Geometric
+506,103060105,69.99,Relaxed and Casual sweaters White Plaid
+507,202050208,29.99,Utility and Basics Jackets Black Polka Dots
+508,102060306,99.99,Utility and Basics sweaters Brown Paisley
+509,201020209,29.99,Contemporary and Clean Shoes Black Floral
+510,110050104,69.99,Runway Inspired Jackets White Check
+511,110020104,79.99,Runway Inspired Shoes White Check
+512,204040103,119.99,Dress to Impress Pants White Geometric
+513,101030501,99.99,Contemporary and Clean Shirts Green Plain
+514,104020201,79.99,Dress to Impress Shoes Black Plain
+515,101020510,49.99,Contemporary and Clean Shoes Green Animal print
+516,101061005,39.99,Contemporary and Clean sweaters Orange Plaid
+517,102040804,49.99,Utility and Basics Pants Pink Check
+518,104030704,39.99,Dress to Impress Shirts Red Check
+519,110030307,79.99,Runway Inspired Shirts Brown Houndstooth
+520,104060408,199.99,Dress to Impress sweaters Blue Polka Dots
+521,210010406,69.99,Runway Inspired Hats Blue Paisley
+522,110010307,49.99,Runway Inspired Hats Brown Houndstooth
+523,110060408,169.99,Runway Inspired sweaters Blue Polka Dots
+524,105030609,99.99,Hispter Trend Shirts Purple Floral
+525,108030809,89.99,Athletic Shirts Pink Floral
+526,207060709,119.99,Party Pieces sweaters Red Floral
+527,101020907,19.99,Contemporary and Clean Shoes Yellow Houndstooth
+528,101020109,49.99,Contemporary and Clean Shoes White Floral
+529,103030909,99.99,Relaxed and Casual Shirts Yellow Floral
+530,201040108,109.99,Contemporary and Clean Pants White Polka Dots
+531,201040809,89.99,Contemporary and Clean Pants Pink Floral
+532,101021009,39.99,Contemporary and Clean Shoes Orange Floral
+533,101030109,29.99,Contemporary and Clean Shirts White Floral
+534,107010110,9.99,Party Pieces Hats White Animal print
+535,101030809,29.99,Contemporary and Clean Shirts Pink Floral
+536,102060807,129.99,Utility and Basics sweaters Pink Houndstooth
+537,101060609,139.99,Contemporary and Clean sweaters Purple Floral
+538,102040801,19.99,Utility and Basics Pants Pink Plain
+539,202010710,19.99,Utility and Basics Hats Red Animal print
+540,103060808,109.99,Relaxed and Casual sweaters Pink Polka Dots
+541,104010801,69.99,Dress to Impress Hats Pink Plain
+542,104010808,69.99,Dress to Impress Hats Pink Polka Dots
+543,210061005,119.99,Runway Inspired sweaters Orange Plaid
+544,110030706,99.99,Runway Inspired Shirts Red Paisley
+545,104041007,179.99,Dress to Impress Pants Orange Houndstooth
+546,102060201,129.99,Utility and Basics sweaters Black Plain
+547,104040306,99.99,Dress to Impress Pants Brown Paisley
+548,202040104,29.99,Utility and Basics Pants White Check
+549,103040204,119.99,Relaxed and Casual Pants Black Check
+550,103030104,49.99,Relaxed and Casual Shirts White Check
+551,101010203,29.99,Contemporary and Clean Hats Black Geometric
+552,203020102,19.99,Relaxed and Casual Shoes White Striped
+553,202030604,29.99,Utility and Basics Shirts Purple Check
+554,104010401,59.99,Dress to Impress Hats Blue Plain
+555,101020303,29.99,Contemporary and Clean Shoes Brown Geometric
+556,104020702,49.99,Dress to Impress Shoes Red Striped
+557,101050303,79.99,Contemporary and Clean Jackets Brown Geometric
+558,102040504,129.99,Utility and Basics Pants Green Check
+559,301060404,139.99,Contemporary and Clean sweaters Blue Check
+560,104041006,139.99,Dress to Impress Pants Orange Paisley
+561,202040904,49.99,Utility and Basics Pants Yellow Check
+562,204060806,169.99,Dress to Impress sweaters Pink Paisley
+563,110051006,89.99,Runway Inspired Jackets Orange Paisley
+564,104050405,159.99,Dress to Impress Jackets Blue Plaid
+565,104030406,69.99,Dress to Impress Shirts Blue Paisley
+566,104050506,159.99,Dress to Impress Jackets Green Paisley
+567,304010907,39.99,Dress to Impress Hats Yellow Houndstooth
+568,103010807,39.99,Relaxed and Casual Hats Pink Houndstooth
+569,104020610,79.99,Dress to Impress Shoes Purple Animal print
+570,103010607,9.99,Relaxed and Casual Hats Purple Houndstooth
+571,102040810,79.99,Utility and Basics Pants Pink Animal print
+572,104050807,149.99,Dress to Impress Jackets Pink Houndstooth
+573,202030707,49.99,Utility and Basics Shirts Red Houndstooth
+574,103030603,59.99,Relaxed and Casual Shirts Purple Geometric
+575,301030902,79.99,Contemporary and Clean Shirts Yellow Striped
+576,101030804,39.99,Contemporary and Clean Shirts Pink Check
+577,101030802,99.99,Contemporary and Clean Shirts Pink Striped
+578,103030904,69.99,Relaxed and Casual Shirts Yellow Check
+579,103030804,39.99,Relaxed and Casual Shirts Pink Check
+580,301060704,139.99,Contemporary and Clean sweaters Red Check
+581,104010205,59.99,Dress to Impress Hats Black Plaid

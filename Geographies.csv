@@ -1,0 +1,18 @@
+﻿Region_Code,Region_Name,Country,Country_Code
+01,North America,USA,840
+01,North America,Canada,124
+04,Africa,South Africa,710
+03,Asia,Japan,392
+03,Asia,China,156
+02,Europe,France,250
+02,Europe,Germany,276
+02,Europe,Italy,380
+01,North America,Mexico,484
+02,Europe,Poland,616
+03,Asia,Russia,643
+02,Europe,Spain,724
+02,Europe,Sweden,752
+02,Europe,UK,826
+05,South America,Brazil,076
+05,South America,Argentina,032
+05,South America,Chile,152

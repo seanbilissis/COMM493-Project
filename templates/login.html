@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <title>Login Page</title>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="author" content="Sean Bilissis"/>
+      <link rel="stylesheet" href="{{ url_for('static', filename='css/log-style.css') }}">
+  </head>
+
+  <body>
+      <div class="main-grid">
+        <h1 class="login-heading">Login</h1>
+        <form action="" method="post">
+          <h2 class="username-heading">Username:</h2>
+            <input type="text" id="username" placeholder="Username" name="username" value="{{
+            request.form.username }}">
+          <h2 class=password-heading>Password:</h2>
+            <input type="password" id="password" placeholder="Password" name="password" value="{{
+            request.form.password }}">
+          <input type="submit" id="button" value="Login">
+        </form>
+        {% if error %}
+          <p class="error"><strong>Error:</strong> {{ error }}
+        {% endif %}
+      </div>
+  </body>
+  
+</html>
